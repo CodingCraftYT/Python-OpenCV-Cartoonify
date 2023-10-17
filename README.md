@@ -18,8 +18,8 @@ Python-OpenCV-Cartoonify uses advanced image processing techniques to transform 
 
 Before you begin, ensure you have the following installed:
 
-- Python (version XYZ)
-- OpenCV (version XYZ)
+- Python -> 3.9.8
+- OpenCV -> 4.8.1.78
 
 ## Getting Started 🏁
 
@@ -27,7 +27,7 @@ Follow these steps to get started with Python-OpenCV-Cartoonify:
 
 1. Clone the repository: `git clone https://github.com/YourUsername/Python-OpenCV-Cartoonify.git`
 2. Navigate to the project directory: `cd Python-OpenCV-Cartoonify`
-3. Run the script: `python main.py --input input_image.jpg --output cartoon_image.jpg`
+3. Run the script: `python main.py`
 
 ## How to Use 🚀
 
@@ -35,4 +35,32 @@ To cartoonify an image, simply run the provided Python script with your desired 
 
 Example usage:
 ```bash
-python main.py --input input_image.jpg --output cartoon_image.jpg
+python main.py
+Please enter the name of the image file that you want to process: OIG.jpeg
+Please enter the directory that may contain the image: /path/to/your/directory/
+```
+
+##  Features ✨
+- Artistic Cartoon Effects: Transform images into visually appealing cartoons.
+- Customizable Parameters: Fine-tune the cartoonification process with adjustable parameters.
+- Easy-to-Use Interface: Simple Python script for quick and efficient cartoon transformations.
+
+
+## Contributing 🤝
+
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License 📄
+
+This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements 🙌
+
+- OpenCV Library: Thanks to the OpenCV community for their powerful image processing tools.
+- Python Programming Language: Our project relies on Python's simplicity and versatility.
+- Your Acknowledgement: Mention anyone else you want to acknowledge for their contributions or inspiration.
+
+---
+
+# Happy cartoonifying! 🎉
