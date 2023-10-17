@@ -51,10 +51,6 @@ Please enter the directory that may contain the image: /path/to/your/directory/
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 
-## License 📄
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements 🙌
 
 - OpenCV Library: Thanks to the OpenCV community for their powerful image processing tools.
